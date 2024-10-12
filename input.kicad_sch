@@ -762,7 +762,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5cc1ceb7-0911-421e-80a8-10ef06f129e3")
-		(property "Reference" "U8"
+		(property "Reference" "U3"
 			(at 124.46 96.52 0)
 			(effects
 				(font
@@ -910,7 +910,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "90d94060-e163-43fb-838d-e9208266c413")
-		(property "Reference" "input0"
+		(property "Reference" "input2"
 			(at 152.4 88.9 0)
 			(effects
 				(font
@@ -1053,7 +1053,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bfbbed63-af37-45be-8678-3f6cd5254614")
-		(property "Reference" "R8"
+		(property "Reference" "R3"
 			(at 135.89 82.55 90)
 			(effects
 				(font
