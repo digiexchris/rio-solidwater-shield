@@ -6264,6 +6264,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 67.31) (xy 118.11 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b59b570e-61f5-4881-afb9-2394a7211439")
+	)
+	(wire
+		(pts
 			(xy 132.08 74.93) (xy 140.97 74.93)
 		)
 		(stroke
@@ -7457,6 +7467,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RPI_CLK"
+		(shape input)
+		(at 118.11 67.31 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1e8fa2e8-9e2c-477f-8f03-7e0f5c51d477")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 107.4286 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -8953,6 +8985,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "35"
+		(shape input)
+		(at 125.73 67.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8650cc9b-c812-47bc-a5c6-f56551e6c740")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 131.2293 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
